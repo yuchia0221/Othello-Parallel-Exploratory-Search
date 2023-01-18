@@ -20,7 +20,7 @@
 ### Commands
 
 -   submit.sbatch:
-    > a script that you can use to launch a batch job that will execute a series of tests on 1..16 cores on a compute node. currently, this submission file is configured to use the reserved nodes in the interactive partition. you might get faster turnaround time with either the scavenge or commons partitions.
+    > a script that you can use to launch a batch job that will execute a series of tests on 1..16 cores on a compute node.
 
 ```bash
 # you can modify this script to run your code multiple times with different
